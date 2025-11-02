@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Mango", "price": 2.75, "image": "/mango.jpg" },
+  { "id": 2, "name": "Pineapple", "price": 3.50, "image": "/pineapple.jpg" },
+  { "id": 3, "name": "Dragon Fruit", "price": 4.25, "image": "/dragonfruit.jpg" },
+  { "id": 4, "name": "Papaya", "price": 2.95, "image": "/papaya.jpg" }
+]
